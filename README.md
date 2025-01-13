@@ -10,7 +10,7 @@ This project analyzes business data to extract insights, improve This project an
 - **Objective 4:** Highlight valuable property features to attract potential buyers and optimize real estate development strategies.  
 
 ## 2. Data Sources
-- [Dataset 1](link) - Description of dataset (e.g., Sales data for 2020–2023)
+- [Dataset 1](https://drive.google.com/file/d/1MPDotXZNmiq6geRi8BkGd-fjttzoyTxW/view?usp=drive_link) - Daegu Apartement 
 
 
 ## 3. Technologies Used
