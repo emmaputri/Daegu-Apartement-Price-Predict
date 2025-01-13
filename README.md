@@ -1,7 +1,7 @@
-<h1> [Your Project Title] </h1>
+<h1> [Daegu Apartment Predict Price] </h1>
 
 ## 1. Project Overview
-This project analyzes business data to extract insights, improve decision-making, and identify key trends. The primary focus is to **[Your Problem Statements]**(mention business objectives, such as optimizing sales, reducing operational costs, customer segmentation, etc.).
+This project analyzes business data to extract insights, improve This project analyzes business data to extract insights, enhance decision-making, and identify key trends. The primary focus is to predict apartment sale prices, guiding property investments and optimizing real estate development strategies. Key business objectives include optimizing sales
 
 Key Objectives:
 - Objective 1: (E.g., Analyze customer purchasing patterns)
@@ -55,6 +55,6 @@ In this section, you can present the **actionable insights** derived from the an
 In this section, you can offer **actionable business recommendations** to address the identified problems.
 
 ## 6. Contact
-- Name: 
-- Email:
-- Linkedin:
+- Name: Rachmawati Hapsari Putri
+- Email: putriemma@gmail.com
+- Linkedin: www.linkedin.com/in/rachmawatihp
